@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QR_code</string>
+    <string name="title">Mobile coder</string>
+    <string name="create">Кодировать в QR</string>
+    <string name="scan">Сканировать QR</string>
+    <string name="decoding">decoding/create QR</string>
+    <string name="hint_create">Введите текст для кодирования</string>
+    <string name="EAN">Кодировать в EAN13</string>
+    <string name="qr_detector">Распознать QR</string>
+</resources>
